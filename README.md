@@ -26,4 +26,5 @@ I started learning to code in April '22 after thinking about switching career pa
                           
                       <a href="https://www.twitter.com/rexy_moto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
                           
-                      <a href="https://www.twitch.tv/rexy_moto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>### Badges
+                      <a href="https://www.twitch.tv/rexy_moto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
+                      </p> ### Badges
